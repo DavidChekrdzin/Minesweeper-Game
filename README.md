@@ -12,7 +12,7 @@ Instructions to run the application:
 
 Download the repository 
 
-Open the Minesweeper folder using your preferred Java IDE. 
+Open the Minesweeper folder using IntelliJ Java IDE. 
 
 Run the program using your IDE by running the main class inside:
 Minesweeper\Minesweeper\src\main\java\Minesweeper
