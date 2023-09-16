@@ -6,7 +6,7 @@ Minesweeper is a game where mines are hidden in a grid of squares. Safe squares 
 
 A Simple Minesweeper game created in Java
 
-Run using your preferred Java IDE.
+Run with JDK19 using your IntelliJ Java IDE.
 
 Instructions to run the application:
 
